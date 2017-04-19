@@ -1,4 +1,7 @@
-# test coverage for  [grunt-babel (v6.0.0)](https://github.com/babel/grunt-babel)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-babel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-babel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-babel.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-babel)
+# npmtest-grunt-babel
+
+#### test coverage for  [grunt-babel (v6.0.0)](https://github.com/babel/grunt-babel)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-babel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-babel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-babel.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-babel)
+
 #### Use next generation JavaScript, today
 
 [![NPM](https://nodei.co/npm/grunt-babel.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-babel)
